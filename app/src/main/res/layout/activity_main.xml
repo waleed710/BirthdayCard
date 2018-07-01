@@ -19,7 +19,7 @@
         android:textSize="30sp"
         android:background="#FFFFFF"
         android:textColor="#40C4FF"
-        android:paddingLeft="75dp"/>
+        androdi:paddingLeft="75dp"/>
 
     <TextView
         android:layout_width="wrap_content"
